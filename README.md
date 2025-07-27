@@ -6,8 +6,6 @@
 
 A calming, personalized mental health app designed to help users of all ages manage stress and emotional well-being.
 
-# Installation Guide
-
 # 🚀 Installation & Packaging Guide (Xcode 16.3)
 
 ## ✅ Prerequisites
@@ -29,6 +27,13 @@ A calming, personalized mental health app designed to help users of all ages man
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
 ```
+### 2. Open the project in Xcode
+### 3. Select the target device
+
+please use iPhone 16Pro 
+
+### 4. Run the app
+
 
 # 🔧 Firebase Analytics Debug Mode
 
