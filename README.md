@@ -1,17 +1,34 @@
-# Project SoliU
+# Mental Health Project 
 
 <a href="https://apps.apple.com/us/app/soliu/id6535658392">
   <img src="Pic/soliu_logo.png" width="15%" alt="SoliU Logo"/>
 </a>
 
-
-| Main |
-| ----- |
-| ![Build Status](https://github.com/SoliUTeam/MentalHealth/actions/workflows/build.yml/badge.svg?branch=main) |
-
-
 A calming, personalized mental health app designed to help users of all ages manage stress and emotional well-being.
 
+# Installation Guide
+
+# 🚀 Installation & Packaging Guide (Xcode 16.3)
+
+## ✅ Prerequisites
+
+- macOS 13 or later  
+- Xcode 16.3 installed ([Download here](https://developer.apple.com/xcode/))  
+- A valid Apple Developer account (free or paid)
+
+---
+
+## 🛠️ Running the App Locally
+
+### 1. Clone the repository
+
+- Open Terminal.
+- Run the following command:
+
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+```
 
 # 🔧 Firebase Analytics Debug Mode
 
