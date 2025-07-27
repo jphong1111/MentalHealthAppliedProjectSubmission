@@ -12,7 +12,6 @@ A calming, personalized mental health app designed to help users of all ages man
 
 - macOS 13 or later  
 - Xcode 16.3 installed ([Download here](https://developer.apple.com/xcode/))  
-- A valid Apple Developer account (free or paid)
 
 ---
 
