@@ -20,7 +20,6 @@ final class HomeSectionViewController: BaseViewController {
         ChartSectionViewController.identifier,
         MeditationSectionViewController.identifier
     ]
-    private var hasShownScrollFooter = false
 
     // MARK: - ScrollView and StackView
     private lazy var scrollView = UIScrollView()
